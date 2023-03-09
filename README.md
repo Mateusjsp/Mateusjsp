@@ -1,16 +1,16 @@
-### Hi there 👋
+Eu sou Mateus José
 
-<!--
-**Mateusjsp/Mateusjsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduado em Direito e Estudante na Cubos Academy;
 
-Here are some ideas to get you started:
+Tenho conhecimento em JavaScript, HTML e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco atualmente esta em Fullstack;
+
+## Contatos:
+
+<div>
+
+<a href="https://instagram.com/mateusjsp.eth/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mateusjsp.eth@hotmal.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-paula-643513252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
