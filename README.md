@@ -1,6 +1,9 @@
 Eu sou Mateus José
 
 Graduado em Direito e Estudante na Cubos Academy;
+Sou aludo de Analise e Desenvolvimento na PUC-GO. 
+
+Atualmente trabalho como Analista de Requisitos na Defensoria Publica do Estado de Goiás. 
 
 Tenho conhecimento em JavaScript, HTML e CSS.
 
